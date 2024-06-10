@@ -10,3 +10,13 @@ const summation = (num) => {
 
     return sum
 }
+
+// recursive approach
+
+const summation = (num) => {
+    if (num === 1) {
+        return 1;
+    }
+
+    return num + summation(num - 1);
+}
