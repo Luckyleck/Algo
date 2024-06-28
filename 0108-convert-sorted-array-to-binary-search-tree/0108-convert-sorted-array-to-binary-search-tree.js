@@ -11,10 +11,6 @@
  * @return {TreeNode}
  */
 var sortedArrayToBST = function(nums) {
-    if (nums.length === 0) {
-        return null;
-    }
-    
     const buildBST = function(left, right) {
         if (left > right) {
             return null;
