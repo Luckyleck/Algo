@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Luckyleck/Algo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Luckyleck/Algo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
