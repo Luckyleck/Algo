@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Luckyleck/Algo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0374-guess-number-higher-or-lower](https://github.com/Luckyleck/Algo/tree/master/0374-guess-number-higher-or-lower) |
 ## Binary Tree
 |  |
 | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/Luckyleck/Algo/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Luckyleck/Algo/tree/master/1833-find-the-highest-altitude) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Luckyleck/Algo/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
