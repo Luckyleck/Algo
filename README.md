@@ -74,11 +74,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0283-move-zeroes](https://github.com/Luckyleck/Algo/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Luckyleck/Algo/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Luckyleck/Algo/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Luckyleck/Algo/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Luckyleck/Algo/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Luckyleck/Algo/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Luckyleck/Algo/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Luckyleck/Algo/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -98,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Luckyleck/Algo/tree/master/1392-find-the-difference-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Luckyleck/Algo/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
