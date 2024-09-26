@@ -104,4 +104,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Luckyleck/Algo/tree/master/0392-is-subsequence) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Luckyleck/Algo/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Luckyleck/Algo/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Luckyleck/Algo/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
