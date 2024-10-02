@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Luckyleck/Algo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/Luckyleck/Algo/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Luckyleck/Algo/tree/master/0724-find-pivot-index) |
+| [1319-unique-number-of-occurrences](https://github.com/Luckyleck/Algo/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Luckyleck/Algo/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Luckyleck/Algo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Luckyleck/Algo/tree/master/1833-find-the-highest-altitude) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Luckyleck/Algo/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Luckyleck/Algo/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
