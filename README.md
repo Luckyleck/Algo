@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/Luckyleck/Algo/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Luckyleck/Algo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/Luckyleck/Algo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Luckyleck/Algo/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Luckyleck/Algo/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Luckyleck/Algo/tree/master/1319-unique-number-of-occurrences) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Luckyleck/Algo/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Luckyleck/Algo/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Luckyleck/Algo/tree/master/1833-find-the-highest-altitude) |
 ## Interactive
