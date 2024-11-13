@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/Luckyleck/Algo/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Luckyleck/Algo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Luckyleck/Algo/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Luckyleck/Algo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Luckyleck/Algo/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Luckyleck/Algo/tree/master/0724-find-pivot-index) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Luckyleck/Algo/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Luckyleck/Algo/tree/master/0392-is-subsequence) |
 ## Design
 |  |
