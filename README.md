@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Luckyleck/Algo/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Luckyleck/Algo/tree/master/0029-divide-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Luckyleck/Algo/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Prefix Sum
