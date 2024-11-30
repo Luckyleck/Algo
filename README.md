@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Luckyleck/Algo/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Luckyleck/Algo/tree/master/0160-intersection-of-two-linked-lists) |
 ## Bit Manipulation
 |  |
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Luckyleck/Algo/tree/master/0334-increasing-triplet-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Luckyleck/Algo/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
