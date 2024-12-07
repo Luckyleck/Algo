@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Luckyleck/Algo/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Luckyleck/Algo/tree/master/0029-divide-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Luckyleck/Algo/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1585-the-kth-factor-of-n](https://github.com/Luckyleck/Algo/tree/master/1585-the-kth-factor-of-n) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Luckyleck/Algo/tree/master/0024-swap-nodes-in-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Luckyleck/Algo/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
