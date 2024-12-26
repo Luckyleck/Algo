@@ -3,24 +3,24 @@
  * @return {string}
  */
 var reverseVowels = function(s) {
-    let strArr = s.split('');
-    const vowels = new Set(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);
-    let left = 0;
-    let right = s.length - 1;
-
-    while (left < right) {
-        while (left < right && !vowels.has(strArr[left])) {
-            left++;
-        }
-        while (left < right && !vowels.has(strArr[right])) {
-            right--;
-        }
-        if (left < right) {
-            [strArr[left], strArr[right]] = [strArr[right], strArr[left]];
-            left++;
-            right--;
-        }
-    }
-
-    return strArr.join('');
+    let chars = s.split('');
+    let vowels = 'aeiouAEIOU';
+ 
+    let swaps = [];
+ 
+    // Collect all vowels
+    for (let i = 0; i < chars.length; i++) { 
+        if (vowels.includes(chars[i])) { 
+            swaps.push(chars[i]); 
+        } 
+    } 
+    
+    // Replace vowels with popped values (automatically in reverse order)
+    for (let i = 0; i < chars.length; i++) { 
+        if (vowels.includes(chars[i])) { 
+            chars[i] = swaps.pop();
+        } 
+    } 
+ 
+    return chars.join('');
 };
