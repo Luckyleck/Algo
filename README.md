@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Luckyleck/Algo/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Luckyleck/Algo/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Luckyleck/Algo/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Luckyleck/Algo/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Luckyleck/Algo/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Luckyleck/Algo/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Luckyleck/Algo/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -160,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Luckyleck/Algo/tree/master/1585-the-kth-factor-of-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Luckyleck/Algo/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
