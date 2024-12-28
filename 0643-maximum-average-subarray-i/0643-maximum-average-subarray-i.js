@@ -4,22 +4,23 @@
  * @return {number}
  */
 var findMaxAverage = function(nums, k) {
-    let maxSum = 0;
     let currentSum = 0;
 
-    // Initialize the first window
+    // Initialize the sum of the first k elements
     for (let i = 0; i < k; i++) {
         currentSum += nums[i];
     }
 
-    maxSum = currentSum;
+    let maxSum = currentSum;
 
     // Slide the window across the array
     for (let i = k; i < nums.length; i++) {
-        currentSum += nums[i] - nums[i - k]; // Add next element, remove the first element of the previous window
-        maxSum = Math.max(maxSum, currentSum);
+        currentSum += nums[i] - nums[i - k];
+        if (currentSum > maxSum) {
+            maxSum = currentSum;
+        }
     }
 
-    // Calculate the maximum average
+    // Return the maximum average
     return maxSum / k;
 };
