@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Luckyleck/Algo/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Luckyleck/Algo/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/Luckyleck/Algo/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Luckyleck/Algo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Luckyleck/Algo/tree/master/0392-is-subsequence) |
