@@ -3,13 +3,9 @@
  * @return {string}
  */
 var reverseWords = function(s) {
-    let words = s.split(" ")
-    let goodwords = [];
-
-    for (let word of words) {
-        if (word !== "") {
-            goodwords.unshift(word);
-        }
-    }
-    return goodwords.join(" ");
-}
+    let words = s.trim().split(' ');
+    
+    reversed = words.reverse().filter(word => word !== '')
+    
+    return reversed.join(' ');
+};
