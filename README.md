@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Luckyleck/Algo/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Luckyleck/Algo/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Luckyleck/Algo/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Luckyleck/Algo/tree/master/1258-article-views-i) |
