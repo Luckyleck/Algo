@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Luckyleck/Algo/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Luckyleck/Algo/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Luckyleck/Algo/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Luckyleck/Algo/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Luckyleck/Algo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Luckyleck/Algo/tree/master/0392-is-subsequence) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Luckyleck/Algo/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Luckyleck/Algo/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Luckyleck/Algo/tree/master/0029-divide-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Luckyleck/Algo/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/Luckyleck/Algo/tree/master/1585-the-kth-factor-of-n) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Luckyleck/Algo/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Luckyleck/Algo/tree/master/0160-intersection-of-two-linked-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/Luckyleck/Algo/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Luckyleck/Algo/tree/master/1392-find-the-difference-of-two-arrays) |
